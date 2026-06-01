@@ -1,4 +1,4 @@
-# 📊 ilearning
+# 📊 [ilearning](https://coiponorte.github.io/ilearning/)
 
 Guía interactiva estilo pizarra matemática para aprender Business Intelligence, Data Analysis y Python/Pandas. Cuadrícula de fondo, símbolos matemáticos y código copiable.
 
